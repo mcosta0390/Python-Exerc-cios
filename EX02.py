@@ -1,9 +1,3 @@
-2 – Os alunos da sua turma fizeram uma votação para escolher qual dia da semana é o melhor para a realização das lives. Desenvolva um programa em que 
-o usuário informe a quantidade de votos que cada um dos 5 dias da semana (segunda-feira, terça-feira, quarta-feira, quinta-feira e sexta-feira) obtiveram, 
-verifique e exiba qual dia foi o escolhido.
-
-
-
 Resolução:
 
 votacao1 = input("Por favor, escolha qual o melhor dia para efetuarmos a realização da nossa Live: SEGUNDA, TERÇA, QUARTA, QUINTA ou SEXTA? ")
