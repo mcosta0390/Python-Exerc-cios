@@ -15,7 +15,11 @@ Gold 10%
 Platinum 5%
 
 
+
+
+
 Resolução:
+    
 
 nivel_assinatura_cliente = input("Por favor, informar se o nível da sua assinatura é o BASIC, SILVER, GOLD ou PLATINUM: ")
 faturamento_anual_cliente = float(input("Por favor, informar o valor do seu faturamento anual: "))
