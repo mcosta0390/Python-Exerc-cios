@@ -15,6 +15,7 @@ POR FAVOR, INSIRA A NOTA DO ALUNO DE NÚMERO x.
 
 
 Resolução:
+   
 
 soma1 = 0
 quantidade1 = 0
