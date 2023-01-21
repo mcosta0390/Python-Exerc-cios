@@ -1,4 +1,5 @@
 Resolução:
+    
 
 votacao1 = input("Por favor, escolha qual o melhor dia para efetuarmos a realização da nossa Live: SEGUNDA, TERÇA, QUARTA, QUINTA ou SEXTA? ")
 votacao2 = input("Por favor, escolha qual o melhor dia para efetuarmos a realização da nossa Live: SEGUNDA, TERÇA, QUARTA, QUINTA ou SEXTA? ")
